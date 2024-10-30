@@ -1,5 +1,5 @@
 # Typing WEBSITE BY MK
-# Accept This PR
+# Accept This PR again
 # DEMO : https://typing12.vercel.app
 
 # DEMO : https://mk-knight23.github.io/typing12
